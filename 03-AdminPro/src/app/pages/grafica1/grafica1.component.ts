@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class Grafica1Component {
 
+  public labels1:string[] = [
+    'Pan',
+    'Gaseosa',
+    'Salamines',
+  ];
+
 }
